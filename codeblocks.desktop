@@ -1,0 +1,16 @@
+[Desktop Entry]
+Name=Code::Blocks IDE
+Name[ru]=Среда разработки Code::Blocks
+GenericName=Integrated development environment
+GenericName[ru]=Интегрированная среда разработки программ
+Comment=Configurable and extensible IDE
+Comment[ru]=Настраиваемая и гибкая среда разработки ПО
+Version=1.0
+Type=Application
+Exec=codeblocks %F
+Icon=codeblocks
+Terminal=false
+X-MultipleArgs=false
+Categories=Development;IDE;GTK;
+StartupNotify=true
+MimeType=application/x-codeblocks;application/x-codeblocks-workspace;

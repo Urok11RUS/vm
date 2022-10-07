@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon=/pycharm/pycharm-community-2022.1.4/bin/pycharm.png
+Icon[ru_RU]=/pycharm/pycharm-community-2022.1.4/bin/pycharm.png
+Name[ru_RU]=Pycharm
+Exec=/pycharm/pycharm-community-2022.1.4/bin/pycharm.sh
+Name=Pycharm
